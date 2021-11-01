@@ -1,0 +1,10 @@
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\bin\Debug\wfaQuestao2.exe.config
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\bin\Debug\wfaQuestao2.exe
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\bin\Debug\wfaQuestao2.pdb
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\obj\Debug\wfaQuestao2.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\obj\Debug\wfaQuestao2.Form1.resources
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\obj\Debug\wfaQuestao2.Properties.Resources.resources
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\obj\Debug\wfaQuestao2.csproj.GenerateResource.cache
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\obj\Debug\wfaQuestao2.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\obj\Debug\wfaQuestao2.exe
+C:\Users\PICHAU\Documents\Rafael\POO\P1\wfaQuestao2\wfaQuestao2\obj\Debug\wfaQuestao2.pdb
